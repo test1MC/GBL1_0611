@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultProjectImport
+  AutoSync="true"
+  ParentMadCapCentralId="4366"
+  LastImport="2017-11-06T07:42:31.4309499-08:00">
+  <Files>
+    <Url
+      Source="file:///C:/Users/sgarcia/Documents/GBL/GBL2/GBL2.flprj"
+      AbsoluteSource="file:///C:/Users/sgarcia/Documents/GBL/GBL2/GBL2.flprj" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles>
+    <Url
+      Source="../../../GBL2/Content/TOPIC 2.htm"
+      AbsoluteSource="file:///C:/Users/sgarcia/Documents/GBL/GBL2/Content/TOPIC 2.htm" />
+  </CollectedSourceFiles>
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/TOPIC 2.htm"
+      TimeStamp="11/3/2017 12:06:30 PM" />
+  </GeneratedFiles>
+</CatapultProjectImport>

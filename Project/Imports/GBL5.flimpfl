@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultProjectImport AutoSync="true" ParentMadCapCentralId="4363" LastImport="2017-11-03T16:59:09.6562903-07:00">
+    <Files>
+        <Url Source="file:///C:/Users/sgarcia/Desktop/New122/New122.flprj" AbsoluteSource="file:///C:/Users/sgarcia/Desktop/New122/New122.flprj" />
+    </Files>
+    <ExcludedFiles />
+    <CollectedSourceFiles>
+        <Url Source="../../../../../Documents/News0311/Content/A_Introduction Topics/MoreInformation.htm" AbsoluteSource="file:///C:/Users/sgarcia/Documents/News0311/Content/A_Introduction Topics/MoreInformation.htm" />
+        <Url Source="../../../../../Documents/News0311/Content/A_Introduction Topics/Welcome.htm" AbsoluteSource="file:///C:/Users/sgarcia/Documents/News0311/Content/A_Introduction Topics/Welcome.htm" />
+        <Url Source="../../../../../Documents/News0311/Content/A_Introduction Topics/WhatsNew.htm" AbsoluteSource="file:///C:/Users/sgarcia/Documents/News0311/Content/A_Introduction Topics/WhatsNew.htm" />
+        <Url Source="../../../../../Documents/News0311/Content/B_Feature Topics/Feature1.htm" AbsoluteSource="file:///C:/Users/sgarcia/Documents/News0311/Content/B_Feature Topics/Feature1.htm" />
+        <Url Source="../../../../../Documents/News0311/Content/B_Feature Topics/Feature2.htm" AbsoluteSource="file:///C:/Users/sgarcia/Documents/News0311/Content/B_Feature Topics/Feature2.htm" />
+        <Url Source="../../../../../Documents/News0311/Content/B_Feature Topics/Feature3.htm" AbsoluteSource="file:///C:/Users/sgarcia/Documents/News0311/Content/B_Feature Topics/Feature3.htm" />
+        <Url Source="../../../../../Documents/News0311/Content/B_Feature Topics/Features.htm" AbsoluteSource="file:///C:/Users/sgarcia/Documents/News0311/Content/B_Feature Topics/Features.htm" />
+        <Url Source="../../../../../Documents/News0311/Content/C_Procedure Topics/Procedure1.htm" AbsoluteSource="file:///C:/Users/sgarcia/Documents/News0311/Content/C_Procedure Topics/Procedure1.htm" />
+        <Url Source="../../../../../Documents/News0311/Content/C_Procedure Topics/Procedure2.htm" AbsoluteSource="file:///C:/Users/sgarcia/Documents/News0311/Content/C_Procedure Topics/Procedure2.htm" />
+        <Url Source="../../../../../Documents/News0311/Content/C_Procedure Topics/Procedure3.htm" AbsoluteSource="file:///C:/Users/sgarcia/Documents/News0311/Content/C_Procedure Topics/Procedure3.htm" />
+        <Url Source="../../../../../Documents/News0311/Content/C_Procedure Topics/Procedures.htm" AbsoluteSource="file:///C:/Users/sgarcia/Documents/News0311/Content/C_Procedure Topics/Procedures.htm" />
+    </CollectedSourceFiles>
+    <SkippedSourceFiles>
+        <Url Source="../../../../New122/Content/A_Introduction Topics/MoreInformation.htm" AbsoluteSource="file:///C:/Users/sgarcia/Desktop/New122/Content/A_Introduction Topics/MoreInformation.htm" />
+        <Url Source="../../../../New122/Content/A_Introduction Topics/Welcome.htm" AbsoluteSource="file:///C:/Users/sgarcia/Desktop/New122/Content/A_Introduction Topics/Welcome.htm" />
+        <Url Source="../../../../New122/Content/A_Introduction Topics/WhatsNew.htm" AbsoluteSource="file:///C:/Users/sgarcia/Desktop/New122/Content/A_Introduction Topics/WhatsNew.htm" />
+        <Url Source="../../../../New122/Content/B_Feature Topics/Feature1.htm" AbsoluteSource="file:///C:/Users/sgarcia/Desktop/New122/Content/B_Feature Topics/Feature1.htm" />
+        <Url Source="../../../../New122/Content/B_Feature Topics/Feature2.htm" AbsoluteSource="file:///C:/Users/sgarcia/Desktop/New122/Content/B_Feature Topics/Feature2.htm" />
+        <Url Source="../../../../New122/Content/B_Feature Topics/Feature3.htm" AbsoluteSource="file:///C:/Users/sgarcia/Desktop/New122/Content/B_Feature Topics/Feature3.htm" />
+        <Url Source="../../../../New122/Content/B_Feature Topics/Features.htm" AbsoluteSource="file:///C:/Users/sgarcia/Desktop/New122/Content/B_Feature Topics/Features.htm" />
+        <Url Source="../../../../New122/Content/C_Procedure Topics/Procedure1.htm" AbsoluteSource="file:///C:/Users/sgarcia/Desktop/New122/Content/C_Procedure Topics/Procedure1.htm" />
+        <Url Source="../../../../New122/Content/C_Procedure Topics/Procedure2.htm" AbsoluteSource="file:///C:/Users/sgarcia/Desktop/New122/Content/C_Procedure Topics/Procedure2.htm" />
+        <Url Source="../../../../New122/Content/C_Procedure Topics/Procedure3.htm" AbsoluteSource="file:///C:/Users/sgarcia/Desktop/New122/Content/C_Procedure Topics/Procedure3.htm" />
+        <Url Source="../../../../New122/Content/C_Procedure Topics/Procedures.htm" AbsoluteSource="file:///C:/Users/sgarcia/Desktop/New122/Content/C_Procedure Topics/Procedures.htm" />
+    </SkippedSourceFiles>
+    <GeneratedFiles>
+        <Url Source="../../Content/A_Introduction Topics/MoreInformation.htm" TimeStamp="11/3/2017 4:38:30 PM" />
+        <Url Source="../../Content/A_Introduction Topics/Welcome.htm" TimeStamp="11/3/2017 4:38:30 PM" />
+        <Url Source="../../Content/A_Introduction Topics/WhatsNew.htm" TimeStamp="11/3/2017 4:38:30 PM" />
+        <Url Source="../../Content/B_Feature Topics/Feature1.htm" TimeStamp="11/3/2017 4:38:30 PM" />
+        <Url Source="../../Content/B_Feature Topics/Feature2.htm" TimeStamp="11/3/2017 4:38:30 PM" />
+        <Url Source="../../Content/B_Feature Topics/Feature3.htm" TimeStamp="11/3/2017 4:38:30 PM" />
+        <Url Source="../../Content/B_Feature Topics/Features.htm" TimeStamp="11/3/2017 4:38:30 PM" />
+        <Url Source="../../Content/C_Procedure Topics/Procedure1.htm" TimeStamp="11/3/2017 4:38:30 PM" />
+        <Url Source="../../Content/C_Procedure Topics/Procedure2.htm" TimeStamp="11/3/2017 4:38:30 PM" />
+        <Url Source="../../Content/C_Procedure Topics/Procedure3.htm" TimeStamp="11/3/2017 4:38:30 PM" />
+        <Url Source="../../Content/C_Procedure Topics/Procedures.htm" TimeStamp="11/3/2017 4:38:30 PM" />
+    </GeneratedFiles>
+</CatapultProjectImport>
